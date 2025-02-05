@@ -19,4 +19,4 @@ jobs:
         uses: peter-evans/create-issue-from-file@v3
         with:
           title: Configuração de Ambiente
-          content-filepath: .github/content/issues/01-Welcome.md
+          content-filepath: .github/content/Issues/01-Welcome.md
